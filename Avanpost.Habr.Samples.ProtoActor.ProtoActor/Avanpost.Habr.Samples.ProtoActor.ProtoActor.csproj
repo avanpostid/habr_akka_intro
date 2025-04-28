@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>Avanpost.Habr.Samples.ProtoActor</AssemblyName>
+        <RootNamespace>Avanpost.Habr.Samples.ProtoActor</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Proto.Actor" Version="1.7.0" />
+      <PackageReference Include="Proto.Cluster" Version="1.7.0" />
+      <PackageReference Include="Proto.Remote" Version="1.7.0" />
+      <PackageReference Include="Proto.Remote.GrpcCore" Version="0.27.0" />
+    </ItemGroup>
+
+</Project>

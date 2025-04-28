@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanpost.Habr.Samples.Orleans", "Avanpost.Habr.Samples.Orleans\Avanpost.Habr.Samples.Orleans.csproj", "{64C2EF94-4B68-4266-8616-5680AAFAB1D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanpost.Habr.Samples.ProtoActor.ProtoActor", "Avanpost.Habr.Samples.ProtoActor.ProtoActor\Avanpost.Habr.Samples.ProtoActor.ProtoActor.csproj", "{95F79907-2B0E-40CB-985D-1F970C5EAF66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanpost.Habr.Samples.AkkaNet", "Avanpost.Habr.Samples.AkkaNet\Avanpost.Habr.Samples.AkkaNet.csproj", "{9436B38F-80D2-4385-A570-E48D2BA28583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		
+		{64C2EF94-4B68-4266-8616-5680AAFAB1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C2EF94-4B68-4266-8616-5680AAFAB1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F79907-2B0E-40CB-985D-1F970C5EAF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F79907-2B0E-40CB-985D-1F970C5EAF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F79907-2B0E-40CB-985D-1F970C5EAF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F79907-2B0E-40CB-985D-1F970C5EAF66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9436B38F-80D2-4385-A570-E48D2BA28583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9436B38F-80D2-4385-A570-E48D2BA28583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9436B38F-80D2-4385-A570-E48D2BA28583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9436B38F-80D2-4385-A570-E48D2BA28583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
